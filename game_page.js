@@ -71,7 +71,7 @@ function check() {
 
     if (answerTurn == "player1") {
         answerTurn = "player2"
-        document.getElementById("playerAnswer").innerHTML = "Turno de Resposta - " + player2Name;
+        document.getElementById("playerAnswser").innerHTML = "Turno de Resposta - " + player2Name;
     }
     else {
         answerTurn = "player1"
