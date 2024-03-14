@@ -1,1 +1,1 @@
-# projetoadivinhaBatata
+# batataAdivinhapalavra
